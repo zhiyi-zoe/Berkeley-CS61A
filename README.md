@@ -1,8 +1,16 @@
 # CS61A
-Course website: [cs61a Home Page](https://cs61a.org/)
-Instructor: [John DeNero](https://denero.org/)
-Semester: Spring 2023
+Welcome to my personal learning repository for CS61A at UC Berkeley! This repository contains comprehensive materials from the course "Structure and Interpretation of Computer Programs," taught by [John DeNero](https://denero.org/).
 
-This is my personal learning record for CS61A in UC Berkeley. This repository contains all the materials of the course "Structure and Interpretation of Computer Programs" in the UC Berkeley CS 61A in the semester of Spring 2023, including the discussions, exams and my solutions of all the 10 homework, 14 labs and 4 projects.
+**Course Website**: [CS61A Home Page](https://cs61a.org/) \
+**Instructor**: [John DeNero](https://denero.org/) \
+**Semester**: Spring 2023
 
-Open videos (which one can find both in the [cs61a Home Page](https://cs61a.org/) and in [Youtube](https://www.youtube.com/@JohnDeNero)).
+## Materials Included
+- [**Exams**](./exam/): Solutions for each exam, including [midterm 1](./exam/midterm1/), [midterm 2](./exam/midterm2/) and [final](./exam/final/).
+- [**Homework**](./homework/): Solutions for all 10 assignments.
+- [**Labs**](./lab/): Completed labs.
+- [**Projects**](./project/): Solutions for all 4 projects, including [ants](./project/ants/), [cats](./project/cats/), [hog](./project/hog/) and [scheme](./project/scheme/).
+
+## Video Resources
+
+You can find lectures and discussions on both the [CS61A Home Page](https://cs61a.org/) and [YouTube](https://www.youtube.com/@JohnDeNero).
