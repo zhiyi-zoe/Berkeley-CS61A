@@ -1,4 +1,4 @@
-# CS61A
+# Berkeley-CS61A
 Welcome to my personal learning repository for CS61A at UC Berkeley! This repository contains comprehensive materials from the course "Structure and Interpretation of Computer Programs," taught by [John DeNero](https://denero.org/).
 
 **Course Website**: [CS61A Home Page](https://cs61a.org/) \
